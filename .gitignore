@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.DS_Store
+stemming/__pycache__
+.idea
+stemming/__pycache__
+.DS_Store
+stemming/__pycache__
+anaconda_projects
